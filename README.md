@@ -2,7 +2,7 @@
 **프로젝트 요약**: AR 마커를 활용한 물건 관리 및 공간 구조화 애플리케이션  
 개발 환경 및 기술 스택: Unity2022, C#, AR  
 플랫폼: Mobile  
-![시연영상](https://drive.google.com/file/d/15Hs18uzHZKDjM4ppyPINphjPLVlx9W7B/view?usp=sharing)
+[시연영상](https://drive.google.com/file/d/15Hs18uzHZKDjM4ppyPINphjPLVlx9W7B/view?usp=sharing)
   
   
 ## 핵심 기능  
