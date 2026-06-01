@@ -25,7 +25,7 @@
 ### 핵심 스크립트  
 **PointManager** : 마커 제어 기능들을 인터페이스로 제공한다.  
   
-### PointManager가 제공하는 인터페이스를 이용하는 창(UI) 관리자 스크립트들
+### PointManager가 제공하는 인터페이스를 이용하는 UI 관리자
 **InfoPanelManager** : 마커 정보 확인창 관리자.  
 **CategorySettingManager** : 카테고리 설정창 관리자.  
 **MainButtonsManager** : 기본창 관리자.  
